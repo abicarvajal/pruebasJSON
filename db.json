@@ -7,6 +7,14 @@
 		"direccion": "Chillogallo",
 		"descripcion": "",
 		"nombre_servicio": "lavandera"
+	},
+	{
+		"id_trabajador":2,
+		"nombre": "Daniela",
+		"apellido": "Gallegos",
+		"direccion": "Chillogallo",
+		"descripcion": "",
+		"nombre_servicio": "lavandera"
 	}
 	],
 	"profile":{
