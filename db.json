@@ -1,0 +1,16 @@
+{
+	"posts":[
+	{
+		"id_trabajador":1,
+		"nombre": "Ana",
+		"apellido": "Gonzalez",
+		"direccion": "Chillogallo",
+		"descripcion": "",
+		"nombre_servicio": "lavandera"
+	}
+	],
+	"profile":{
+		"name":"typicode"
+	}
+
+}
