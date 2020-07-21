@@ -5,6 +5,7 @@
 		"nombre": "Ana",
 		"apellido": "Gonzalez",
 		"direccion": "Chillogallo",
+		"sector":"Sur",
 		"descripcion": "",
 		"nombre_servicio": "lavandera"
 	},
@@ -13,6 +14,7 @@
 		"nombre": "Daniela",
 		"apellido": "Gallegos",
 		"direccion": "Chillogallo",
+		"sector": "Sur",
 		"descripcion": "",
 		"nombre_servicio": "lavandera"
 	},
@@ -20,7 +22,8 @@
 		"id_trabajador":3,
 		"nombre": "Daniel",
 		"apellido": "Gallegos",
-		"direccion": "Magdalena",
+		"direccion": "Calderón",
+		"sector": "Norte",
 		"descripcion": "",
 		"nombre_servicio": "electricista"
 	}
